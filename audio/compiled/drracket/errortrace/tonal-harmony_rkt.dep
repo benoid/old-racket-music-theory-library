@@ -1,0 +1,1 @@
+("6.5" ("2bd14c97fb3458656547996c4f5d62eab1129530" . "0372236f51f358c6fd82134f743395ff8f197b01") #"/home/benoid/Development/Racket/racket-synthesis/audio/synthesis-framework.rkt" (collects #"errortrace" #"errortrace-key.rkt") (collects #"racket" #"main.rkt") (collects #"racket" #"runtime-config.rkt") (collects #"rsound" #"main.rkt"))
