@@ -3,11 +3,11 @@ Music Theory abstraction of the RSound library with support for notes, rests, me
 
 Racket is available at https://download.racket-lang.org/
 
-This software requires RSound, which is installable via ```raco```.
+This library requires RSound, which is installable via ```raco```.
 
 ```raco pkg install rsound```
 
-# To use this software
+# To use this library
 This project is not packaged as a racket library, it is just a collection of source files.  ```require``` whichever files you want to use.  
 
 # Demo
