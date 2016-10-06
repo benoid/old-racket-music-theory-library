@@ -1,4 +1,4 @@
-# racket-synthesis - A Music Theory API for RSound.
+# racket-music-theory - A Music Theory API for RSound.
 
 Music Theory abstraction of the RSound library with support for notes, rests, measures and instruments.
 
