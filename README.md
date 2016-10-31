@@ -1,4 +1,9 @@
-# racket-music-theory - A Music Theory Abstraction for Racket's RSound library.
+
+
+### racket-music-theory - A Music Theory Abstraction for Racket's RSound library.
+
+Note: This project is being rewritten and incorporated into a fork of rsound [here](https://github.com/benoid/RSound/tree/master/rsound/composer).
+
 Music Theory abstraction of the RSound library with support for notes, rests, measures and instruments.
 
 Racket is available at https://download.racket-lang.org/
